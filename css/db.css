@@ -1,0 +1,57 @@
+
+*{margin:0;padding:0;}
+body {  font-size:12px; }
+a { text-decoration:none; }
+a:hover { text-decoration:underline; }
+
+
+.contrast { width:953px; margin:auto; border-top:1px solid #ccc; border-bottom:1px solid #ccc; font-family:"ËÎÌו"; font-size:12px; }
+.contrast_y { width:1px; height:580px; background:#ccc; float:left; }
+.contrast_l { width:475px; float:left; }
+.contrast_r { width:475px; float:right; }
+.contrast_t { width:953px; height:76px; line-height:76px; text-align:center; font-weight:bold; background:url("http://www.gzlszh.com/css/images/contrast_l.gif"); }
+.contrast_tl { width:475px; float:left; }
+.contrast_tr { width:475px; float:right; }
+.contrast_img { width:400px; height:295px; border:1px solid #ccc; margin:auto; }
+.contrast_img img { width:380px; height:275px; margin:10px; }
+.contrast_td { width:343px; height:168px; margin:auto; margin-top:32px; text-align:center; border:1px solid #ccc; }
+.contrast_td_l { width:102px; float:left; border-right:1px solid #ccc;  }
+.contrast_td_l ul { list-style:none; font-weight:bold; background:#f3f3f3;  }
+.contrast_td_l ul li { height:27px; line-height:27px; border-bottom:1px solid #ccc;}
+.contrast_td_r { width:240px; float:left; }
+.contrast_td_r ul { list-style:none;}
+.contrast_td_r ul li { height:27px; line-height:27px; border-bottom:1px solid #ccc; }
+.contrast_bz { width:400px; min-height:50px; margin:auto; margin-top:32px; line-height:20px; }
+.contrast_bz img,table { max-width:380px; width:auto; overflow:hidden; }
+.contrast_b { width:953px; height:20px; background:url("http://www.gzlszh.com/css/images/contrast_b.gif"); clear:both; }
+#td { border-bottom:none; }
+
+
+.center { width:954px; margin:auto; }
+.top_c { width:954px; margin:auto; }
+.top_ct { height:84px; }
+.top_cl { width:225px; height:78px; float:left; margin:3px 0 3px 3px;  }
+.top_cl a { width:225px; height:78px; float:left; text-indent:-2000px; }
+.top_cl  h1 a { width:225px; height:78px; float:left; background-image:url("http://www.gzlszh.com/template/logo.gif"); text-indent:-2000px; }
+.top_cr { float:right; margin-right:5px; margin-top:58px; font-size:14px; color:#999; overflow:hidden; }
+.cpkey { color:#999; padding-left:5px; }
+.search { height:20px; width:50px; }
+
+.sitemap { width:954px; margin:auto; margin-bottom:5px; }
+.site_top { width:916px; height:26px; background:url("../img/sitemap.gif") no-repeat; font-size:14px; font-weight:bold; padding-top:20px; padding-left:38px; }
+.site { clear:both; padding-top:10px}
+.site a { color:#666; }
+.site_t { font-size:14px; padding:0 0 0 20px; font-weight:bold; color:#666; margin-top:30px; }
+.site_b { color:#666; padding:10px 0 0 35px; line-height:25px; }
+.site_b ul { list-style:none; }
+.site_b span { padding-right:10px; }
+.site_x { width:900px; height:1px; background:url("../img/site_x.gif") no-repeat; overflow:hidden; margin-left:27px; }
+
+.bottom { width:960px; height:65px; line-height:25px; margin:auto; background:url("../img/bottom.gif") no-repeat; text-align:center; padding-top:20px; clear:both; color:#333; }
+.bottom a { color:#333; }
+.h30 { height:30px; clear:both; }
+
+.bot { height:65px; width:954px; margin:auto; text-align:center; padding-top:20px; line-height:25px; clear:both; }
+.bot a { color:#000; }
+.bot dt { height:1px; width:954px; background-color:#ccc; overflow:hidden; }
+.bot dd { width:954px; padding-top:10px; }
